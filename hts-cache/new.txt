@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:52:20	244/244	---MCZ	301	error ('Moved%20Permanently')	text/html	date:Fri,%2009%20Apr%202021%2017:22:19%20GMT	https://apprtc.appspot.com/	C:/My%20Web%20Sites/interaction/apprtc.appspot.com/index.html	(from )
+22:52:20	287/287	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2009%20Apr%202021%2017:22:19%20GMT	https://apprtc.appspot.com/robots.txt		(from )
